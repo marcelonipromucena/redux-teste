@@ -3,7 +3,7 @@ import { Provider } from "react-redux";
 
 import CourseList from "./components/CourseList";
 
-import store from "./store";
+import store from "./redux/store";
 
 function App() {
   return (

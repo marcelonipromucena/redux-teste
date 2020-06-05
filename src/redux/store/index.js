@@ -1,5 +1,6 @@
 import { createStore } from "redux";
 
+
 const INITIAL_STATE = {
   data: ["React Native", "React Js","NodeJS"],
 };
